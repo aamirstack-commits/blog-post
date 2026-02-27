@@ -60,4 +60,5 @@ No frameworks. No libraries. Just core web fundamentals.
 2. Open `index.html` in your browser.
 
 ## 📬 Contact
-Feel free to connect through GitHub or other links provided in the project.
+Feel free to connect through GitHub or other links provided in the project or you can visit my LinkedIn Profile below:
+[💼 LinkedIn](https://www.linkedin.com/in/hamadullah-noonari-web-developer/)
